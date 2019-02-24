@@ -1,11 +1,11 @@
 # 2048-Sliding_tiles
 
-#### This repository consists of a gamecentre app which can be run on android studio.
-#### The gamecentre has 3 games; Sliding tiles, Colour guess and 2048(clone)
-#### The gamecentre itself has features such as login and scoreboards
-#### To acess the code for each game go to app -> src -> main -> java/group_0548/gamecentre
-#### The games also comes with a set of unit tests which was done using the JUnit framework
-#### The unit tests can be accessed by going to app -> src -> tes/java/group_0548/gamecentre
+## This repository consists of a gamecentre app which can be run on android studio.
+## The gamecentre has 3 games; Sliding tiles, Colour guess and 2048(clone)
+## The gamecentre itself has features such as login and scoreboards
+## To acess the code for each game go to app -> src -> main -> java/group_0548/gamecentre
+## The games also comes with a set of unit tests which was done using the JUnit framework
+## The unit tests can be accessed by going to app -> src -> tes/java/group_0548/gamecentre
 
 ### Below are some additional details about the games 
 

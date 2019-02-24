@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="group_0548.gamecentre">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".slidingtiles.SlidingGameActivity" />
+        <activity android:name=".slidingtiles.SlidingChooseComplexityActivity" />
+        <activity android:name=".GameCentreActivity" />
+        <activity android:name=".slidingtiles.SlidingStartingActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".ChooseScoreBoardActivity" />
+        <activity android:name=".ScoreBoardActivity" />
+        <activity android:name=".colourguess.ColourGuessStartingActivity" />
+        <activity android:name=".colourguess.ColourGuessChooseComplexityActivity" />
+        <activity android:name=".colourguess.ColourGuessMemoryPhaseActivity" />
+        <activity android:name=".colourguess.ColourGuessChoosePhaseActivity" />
+        <activity android:name=".UserScoreBoardActivity" />
+        <activity android:name=".twentygame.TwentyStartingActivity" />
+        <activity android:name=".twentygame.TwentyChooseComplexityActivity" />
+        <activity android:name=".twentygame.TwentyGameActivity"></activity>
+    </application>
+
+</manifest>
